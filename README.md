@@ -88,11 +88,11 @@ When I'm not founding startups or writing code, you can find me:
 
 ## 🚀 Current Focus
 
-- 🌟 Building [ZertLine](https://github.com/ZertLineapp)
+- 🌟 Building [ZertLine](https://github.com/ZertLine)
 - 🎮 Developing games with Godot
 - 🌐 Creating full-stack web applications
 - 📚 Learning new technologies (and forgetting old ones)
-- ☕ Converting coffee into code
+- 🫖 Converting tea into code
 
 ---
 
