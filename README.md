@@ -1,8 +1,6 @@
-![pixel style](./zertloxe.gif)
-
 <div align="center">
 
-# 👾 Hey there, I'm ZertLoxe!
+# ![pixel style](./zertloxe.gif) Hey there, I'm ZertLoxe!
 
 **Founder of [ZertLine](https://github.com/ZertLine) | Web Dev / Game Dev | Professional Bug Creator (and occasionally fixer)**
 
